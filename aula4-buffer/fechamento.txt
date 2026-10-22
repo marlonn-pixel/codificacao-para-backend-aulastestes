@@ -1,0 +1,4 @@
+Data: 21/10/2026
+Atendimentos realizados: 30
+Status: Concluído
+Responsável: Marlon Santos

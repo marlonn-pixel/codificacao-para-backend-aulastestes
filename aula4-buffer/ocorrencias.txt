@@ -1,0 +1,13 @@
+//REGISTRO DE OCORRÊNCIAS DE ATENDIMENTOS
+
+| ID Ocorrência | Data / Hora | Cliente | Canal | Tipo de Solicitação | Status | Tempo de Resposta (em minutos) | Observação / Desfecho |
+
+| **OC-2026-001** | 21/10/2026 08:30 | Angelo Matheus Cardoso | WhatsApp | Dúvida de Faturamento | Concluído | 5 minutos| Segunda via de fatura enviada em PDF por e-mail. |
+| **OC-2026-002** | 21/10/2026 09:15 | Roberto Carlos Lima | Telefone | Falha na Conexão / Sinal | Em Andamento | 12 minutos | Agendada visita técnica do instalador para 22/10. |
+| **OC-2026-003** | 21/10/2026 09:42 | Juliana Meirelles | E-mail | Cancelamento de Assinatura | Pendente | 45 minutos | Encaminhado para a equipe de retenção de clientes. |
+| **OC-2026-004** | 21/10/2026 10:05 | Lucas Santos Costa | Chat Web | Erro ao Fazer Login | Concluído | 3 minutos | Realizado o redefinimento de senha junto ao usuário. |
+| **OC-2026-005** | 21/10/2026 10:50 | Camila Oliveira | WhatsApp | Troca de Produto | Concluído | 8 minutos | Gerado código de logística reversa para envio do item. |
+| **OC-2026-006** | 21/10/2026 11:20 | Fernando Rocha | Presencial | Reclamação sobre Cobrança | Em Análise | 20 minutos | Solicitado comprovante de pagamento para conciliação. |
+| **OC-2026-007** | 21/10/2026 13:10 | Mariana Sobral Souza | Telefone | Alteração do Plano de Dados | Concluído | 10 minutos | Realizado upgrade do plano contratado no sistema. |
+| **OC-2026-008** | 21/10/2026 14:00 | Marcelo Almeida | E-mail | Rastreamento de Entrega | Concluído | 18 minutos | Fornecido link de rastreamento do parceiro logístico. |
+| **OC-2026-009** | 21/10/2026 14:45 | Vanessa Ribeiro | Chat Web | Elogio ao Atendimento | Concluído | 2 minutos | Registro de elogio enviado à supervisão da equipe. |
